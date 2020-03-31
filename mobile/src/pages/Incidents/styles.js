@@ -40,7 +40,7 @@ export default StyleSheet.create({
         marginTop: 32,
     },
 
-    incidents: {
+    incident: {
         padding: 24,
         borderRadius: 8,
         backgroundColor: "#fff",
@@ -48,13 +48,13 @@ export default StyleSheet.create({
 
     },
 
-    incidentsPropety: {
+    incidentPropety: {
         fontSize: 14,
         color: "#41414d",
         fontWeight: 'bold',
     },
 
-    incidentsValue: {
+    incidentValue: {
         marginTop: 8,
         fontSize: 15,
         marginBottom: 24,
